@@ -197,6 +197,13 @@ body > header {
   #logo {
     position: unset;
   }
+  #adote-cta {
+    width: 100%;
+    background-image: url(../img/background_cellphone.svg);
+    background-size: cover;
+    background-position: center center;
+  }
+
 }
 
 /**
